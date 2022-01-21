@@ -9,7 +9,8 @@
       "UnauthRoleName": "amplify-booktomaster-dev-185403-unauthRole",
       "StackName": "amplify-booktomaster-dev-185403",
       "StackId": "arn:aws:cloudformation:ap-south-1:572069316780:stack/amplify-booktomaster-dev-185403/6ae96110-7abd-11ec-ae61-0ad2d6a913ae",
-      "AmplifyAppId": "dvriluiy4t08x"
+      "AmplifyAppId": "dvriluiy4t08x",
+      "APIGatewayAuthURL": "https://s3.amazonaws.com/amplify-booktomaster-dev-185403-deployment/amplify-cfn-templates/api/APIGatewayAuthStack.json"
     },
     "categories": {
       "auth": {
