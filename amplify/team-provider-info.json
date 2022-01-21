@@ -1,0 +1,30 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-booktomaster-dev-185403-authRole",
+      "UnauthRoleArn": "arn:aws:iam::572069316780:role/amplify-booktomaster-dev-185403-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::572069316780:role/amplify-booktomaster-dev-185403-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-booktomaster-dev-185403-deployment",
+      "UnauthRoleName": "amplify-booktomaster-dev-185403-unauthRole",
+      "StackName": "amplify-booktomaster-dev-185403",
+      "StackId": "arn:aws:cloudformation:ap-south-1:572069316780:stack/amplify-booktomaster-dev-185403/6ae96110-7abd-11ec-ae61-0ad2d6a913ae",
+      "AmplifyAppId": "dvriluiy4t08x"
+    },
+    "categories": {
+      "auth": {
+        "booktomastere014a10c": {}
+      },
+      "function": {
+        "dynamoa8154128Triggerf3a116e7": {
+          "deploymentBucketName": "amplify-booktomaster-dev-185403-deployment",
+          "s3Key": "amplify-builds/dynamoa8154128Triggerf3a116e7-6b4c5636546c42726b73-build.zip"
+        },
+        "booktomastera7f59550": {
+          "deploymentBucketName": "amplify-booktomaster-dev-185403-deployment",
+          "s3Key": "amplify-builds/booktomastera7f59550-697870487471556c5058-build.zip"
+        }
+      }
+    }
+  }
+}

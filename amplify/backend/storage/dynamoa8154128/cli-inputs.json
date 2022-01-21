@@ -1,0 +1,16 @@
+{
+  "resourceName": "dynamoa8154128",
+  "tableName": "dynamoa8154128",
+  "partitionKey": {
+    "fieldName": "booksId",
+    "fieldType": "string"
+  },
+  "sortKey": {
+    "fieldName": "bookName",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": [
+    "dynamoa8154128Triggerf3a116e7"
+  ]
+}
